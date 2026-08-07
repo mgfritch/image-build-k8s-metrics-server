@@ -5,9 +5,9 @@ github:
   token: "UPDATECLI_GITHUB_TOKEN"
 scm:
   default:
-    owner: rancher
+    owner: mgfritch
     repository: image-build-k8s-metrics-server
-    branch: master
+    branch: updatecli-build-base-scm-values
   upstream:
     owner: kubernetes-sigs
     repository: metrics-server
